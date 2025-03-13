@@ -1,18 +1,24 @@
 /*Assignment 1*/
 
 let productCount = 16;
-let productName = 'Tomato';
+let productName = "Tomato";
 
 productCount = 20;
-productName = 'Cabage';
+productName = "Cabage";
+
+console.log(productCount);
+console.log(productName);
 
 /*Assignment 2*/
 
 let userSalary = 900;
-let userPosition = 'Junior Developer'
+let userPosition = "Junior Developer";
 
 userSalary = 1500;
-userPosition = 'Middle Developer'
+userPosition = "Middle Developer";
+
+console.log(userSalary);
+console.log(userPosition);
 
 
 
